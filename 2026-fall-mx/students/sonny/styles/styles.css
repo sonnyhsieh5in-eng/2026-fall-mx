@@ -29,3 +29,8 @@ footer{
   font-style: normal;
 }
 
+
+
+[type="text"]{
+    border: 6px double powderblue;
+}
